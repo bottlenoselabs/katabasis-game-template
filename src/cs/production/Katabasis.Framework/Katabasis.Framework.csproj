@@ -8,7 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="bottlenoselabs.Katabasis.Framework" Version="2022.8.2">
+      <PackageReference Include="bottlenoselabs.Katabasis.Framework" Version="2022.9.1">
         <PrivateAssets>all</PrivateAssets>
       </PackageReference>
     </ItemGroup>
